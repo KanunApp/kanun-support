@@ -1,6 +1,6 @@
 # Privacy Policy for Kanun
 
-**Effective date: 10 August 2026**
+**Effective date: 18 September 2026**
 
 Kanun respects your privacy. This Privacy Policy explains how information is handled when you use Kanun on supported Apple devices.
 
@@ -14,21 +14,23 @@ For privacy questions, support requests, or requests concerning personal informa
 
 ## 2. Information collected by Kanun
 
-Kanun does not collect or transmit personal data to the developer or to a developer-operated server.
+Kanun does not require user accounts and does not operate a developer-controlled gameplay server.
 
-Kanun does not use:
+Kanun uses Tenjin, a mobile measurement and attribution service, to understand how users discover and install the app and to measure the effectiveness of advertising campaigns.
 
-- User accounts
-- Analytics services
-- Advertising networks
-- Tracking technologies
-- Developer-operated cloud storage
-- External gameplay servers
-- Third-party data-collection SDKs
+Tenjin may process limited technical and device information for attribution and analytics purposes, which may include:
 
-Information such as game settings, player names, statistics, achievements, cosmetic selections, tutorial progress, recent match information, and saved progress is stored locally on your device.
+- IP address
+- Identifier for Vendor (IDFV)
+- Device model and operating-system information
+- App and SDK version
+- Device locale, language, country, and time zone
+- Advertising identifier (IDFA), where available and permitted by Apple’s privacy controls
+- Attribution information relating to advertising campaigns
 
-This locally stored information is not accessible to the developer.
+Kanun does not use this information to create user accounts or gameplay profiles.
+
+Game settings, player names, statistics, achievements, cosmetic selections, tutorial progress, recent match information, and saved progress continue to be stored locally on your device.
 
 ## 3. Nearby multiplayer
 
@@ -125,27 +127,29 @@ This Privacy Policy describes Kanun's own data practices and does not govern inf
 
 ## 10. Third parties
 
-Kanun does not share personal data with:
+Kanun uses Tenjin as a mobile measurement and attribution provider.
 
-- Advertising networks
-- Analytics providers
-- Data brokers
-- Marketing services
-- External gameplay servers
+Tenjin processes limited technical and device information on Kanun’s behalf to measure app installs, attribute advertising campaigns, and provide marketing analytics. Depending on device settings and applicable privacy controls, this may include information such as IP address, Identifier for Vendor (IDFV), device and operating-system information, app and SDK version, locale, country, and advertising identifiers where available.
 
-Kanun may communicate with Apple services, such as Game Center, when you choose to use features that depend on those services.
+Tenjin may also exchange attribution-related information with advertising platforms that Kanun has configured for campaign measurement, such as TikTok, where permitted by applicable privacy controls and law.
 
-If Kanun's data practices or third-party dependencies change in a future version, this Privacy Policy and the App Store privacy information will be updated as appropriate.
+Kanun does not sell personal information to data brokers.
 
-## 11. Children's privacy
+Tenjin acts as a data processor for its mobile attribution services. More information about Tenjin’s privacy practices is available in Tenjin’s Privacy Policy.
 
-Kanun does not knowingly collect personal information from children or other users.
+## 11. Children’s privacy
+
+Kanun does not knowingly request or collect personal information directly from children.
+
+Kanun uses Tenjin for mobile attribution and marketing analytics. Tenjin may process limited technical and device information as described in this Privacy Policy.
+
+Kanun does not use this information to create user profiles, provide behavioural advertising within the app, or operate developer-controlled user accounts.
 
 Nearby multiplayer information is exchanged directly between participating devices for the purpose of operating the game and is not collected by the developer.
 
-Optional Game Center features are provided through Apple and are subject to Apple's account, privacy, and platform controls.
+Optional Game Center features are provided through Apple and are subject to Apple’s account, privacy, and platform controls.
 
-Parents or guardians with privacy concerns may contact [blowix@proton.me](mailto:blowix@proton.me).
+Parents or guardians with privacy concerns may contact blowix@proton.me.
 
 ## 12. Security
 
